@@ -11,11 +11,10 @@
 
 ## 🌐 Links Rápidos
 
-- 🔗 **Front-end no Vercel**: [front-notas-gk0jh72r7-arthur-033b.vercel.app](https://front-notas-gk0jh72r7-arthur-033b.vercel.app)
-- 🖥️ **Repositório Front-end**: [Arthur-2612/front-notas](https://github.com/Arthur-2612/front-notas.git)
-- ⚙️ **Repositório Backend**: [Arthur-2612/projeto-notas-back](https://github.com/Arthur-2612/projeto-notas-back.git)
-- 🌐 **API REST (Render)**: [projeto-notas-back-1.onrender.com](https://projeto-notas-back-1.onrender.com)
-- 🚀 **Coleção no Postman**: [Ver no Postman](https://afaria2612-3146770.postman.co/workspace/Arthur-Faria's-Workspace~bd935dd6-4da3-49b6-81d4-e16d61a84fdb/collection/52845990-4737b73f-fa02-44b9-bf10-deccc12adeeb?action=share&source=copy-link&creator=52845990)
+- 🔗 **Front-end no Vercel**: [https://notasfront.vercel.app/](https://notasfront.vercel.app/)
+- ⚙️ **Repositório Backend**: [https://github.com/w-tangly/notas_back](https://github.com/w-tangly/notas_back)
+- 🌐 **API REST (Render)**: [https://notas-back-ut9s.onrender.com/](https://notas-back-ut9s.onrender.com/)
+- 🚀 **Coleção no Postman**: [https://documenter.getpostman.com/view/38311854/2sBYHbtGnJ](https://documenter.getpostman.com/view/38311854/2sBYHbtGnJ)
 
 ---
 
