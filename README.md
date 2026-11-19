@@ -115,4 +115,4 @@ front-notas/
 
 ## 👤 Autor
 
-Desenvolvido por **[Arthur Faria](https://github.com/Arthur-2612)** 🚀
+Desenvolvido por **[Pedro Carmo](https://github.com/w-tangly)** 🚀
