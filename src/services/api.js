@@ -1,4 +1,5 @@
-const BASE_URL = '/api/notes';
+const BASE_URL = 'https://notas-back-ut9s.onrender.com/api/notes';
+const HEALTH_URL = 'https://notas-back-ut9s.onrender.com/health';
 
 /**
  * Service handler for backend API operations
@@ -95,7 +96,7 @@ export const api = {
     try {
       const controller = new AbortController();
       const timeoutId = setTimeout(() => controller.abort(), 6000);
-      const response = await fetch(BASE_URL, {
+      const response = await fetch(HEALTH_URL, {
         method: 'GET',
         signal: controller.signal
       });
